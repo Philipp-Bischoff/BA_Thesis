@@ -1,5 +1,5 @@
 # BA_Thesis
-Bachelor Thesis - Philipp Bischoff
+This repository containts my Bachelor Thesis that concluded my Bachelor of Science in Artificial Intelligence, awarded by the University of Groningen with a grade of 8.5/10. I created an agent-based simulation in python that investigated the dynamics of swarm intelligence. 
 
 # Abstract
 
